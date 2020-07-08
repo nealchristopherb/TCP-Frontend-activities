@@ -70,7 +70,6 @@ If you created an application or package and would like other developers to cont
 Go the extra mile and write tests for your application. Then provide examples on how to run them.
 
 
-<<<<<<< HEAD
-=======
+---
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
->>>>>>> cd971b5b6c5233c5db1a33d2741b5b86da482aa8
